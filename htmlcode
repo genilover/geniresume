@@ -1,0 +1,146 @@
+geniresume
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Resume</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+       <img src=<a href=<a href="https://ibb.co/JqNdHVW"><img src="https://i.ibb.co/gdG7JNb/geni.jpg" alt="geni" height="100" width="100">
+        
+     <div class="resume_content">
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold">NISHANTH G</p>
+           <p class="regular">BE ECE</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fas fa-map-signs"></i>
+             </div>
+             <div class="data">
+               87/3,Mudhaliyar street,paramathi,namakkal ,Tamilnadu,India.
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-mobile-alt"></i>
+             </div>
+             <div class="data">
+              +91 9841532021
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-envelope"></i>
+             </div>
+             <div class="data">
+               927621bec138@mkce.ac
+             </div>
+           </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_skills">
+         <div class="title">
+           <p class="bold">SKILLS</p>
+         </div>
+         <ul>
+           <li>
+             <div class="skill_name">
+               HTML
+             </div>
+             <div class="skill_progress">
+               <span style="width: 80%;"></span>
+             </div>
+             <div class="skill_per">10%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               CSS
+             </div>
+             <div class="skill_progress">
+               <span style="width: 70%;"></span>
+             </div>
+             <div class="skill_per">5%</div>
+           </li>
+           <li>
+                        
+             <div class="skill_name">
+               C
+             </div>
+             <div class="skill_progress">
+               <span style="width: 88%;"></span>
+             </div>
+             <div class="skill_per">50%</div>
+           </li>
+         </ul> 
+         <div class
+             <div class="data">
+               <p class="semi-bold">Linkedin website.</p>
+               <p>https://www.linkedin.com/in/nishanth-g/</p>
+             </div>
+           </li>
+         </ul>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+            </div>
+    <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold"></p>
+         </div>
+        <ul>
+            <li>
+                <div class="date">2021 - 2025</div> 
+                <div class="info">
+                     <p class="semi-bold">Cousera</p> 
+                  <p>learning Proteus</p>
+                </div>
+            
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">Education</p>
+         </div>
+      <ul>
+            <li>
+                <div class="date">2021 - 2025</div> 
+                <div class="info">
+                     <p class="semi-bold">M.Kumarasamy college of engineering(Autonomous )</p> 
+                </div>
+            </li>
+            <li>
+              <div class="date">2009 - 2019</div>
+              <div class="info">
+                     <p class="semi-bold">Malar Matric Hr Sec School</p> 
+                  <p></p>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_hobby">
+      <div class="title">
+           <p class="bold">Hobby</p>
+         </div>
+      
+       <ul>
+         <li><i class="fas fa-book"></i>Book reading</li>
+         <li><i class="fas fa-gamepad"></i>Solving puzzles</li>
+         <li><i class="fas fa-music"></i>listening music</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
